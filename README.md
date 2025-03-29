@@ -13,7 +13,7 @@ Download or Clone this repo on your local machine
 2. Provision your IBM Watson Assistant at https://cloud.ibm.com/catalog/services/watson-assistant Name your IBM Watson Assistant service and Click on create.
 3. Click on launch Watson Assitant to open the tool.
 4. Then Click on "Create assistant" Button to create your IBM Watson Assistant.
-5. Name your assistant. If you want, you can give description for ypur assistant.
+5. Name your assistant. If you want, you can give description for your assistant.
 6. Click on "Add an actions or dialog skill"
 7. Go to "upload skill" tab and choose the [skill-Room-Booking.json](skill-Room-Booking.json)
 8. We completed the chatbot. Let's set our IBM Cloud Function to send an email when someone sends a booking request. Go to https://cloud.ibm.com/functions/actions and Click on "Create" Button and click on "Action"
@@ -25,4 +25,4 @@ Download or Clone this repo on your local machine
 14. Click on "Endponits" from the side bar of IBM Cloud Function Action Click on "Enable as Web Action" and Copy the URL.
 15. Come Back to your IBM Watson Assistant. Go to "Option > Webhooks" from the side bar of your IBM Watson Assistant. Then past the URL (Note: Add .json at the end of the URL).
 
-That's it. We have successfully developed our AI Room Booking Chatbot.
+That's it.Successfully developed our AI Room Booking Chatbot.
